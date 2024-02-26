@@ -13,4 +13,4 @@ hi, i'm [Humam Samra](https://humamsamra.github.io/), a passionate Fullstack fre
 <code>Java</code>
 <code>Javascript/Typescript</code>
 <code>Vue js</code>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="center" style="margin-top:10px;"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
